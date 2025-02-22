@@ -53,6 +53,8 @@
 "comment" = { fg = "#8b8b8b" }
 "variable" = { fg = "#FFFFFF" }
 "variable.special" = { fg = "#A0A0A0" }
+"variable.builtin" = {fg = "#ffe6d8"}
+"variable.other.member" = {fg = "#ffe6d8"}
 "keyword" = { fg = "#A0A0A0" }
 "operator" = { fg = "#A0A0A0" }
 "function" = { fg = "#FFCFA8" }
