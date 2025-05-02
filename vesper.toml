@@ -71,7 +71,7 @@
 "markup.list" = { fg = "#65737E" }
 "markup.bold" = { fg = "#FFFFFF", modifiers = ["bold"] }
 "markup.italic" = { fg = "#FFFFFF", modifiers = ["italic"] }
-"markup.link.url" = { fg = "#FFFFFF" }
+# "markup.link.url" = { fg = "#FFFFFF" }
 "markup.link.text" = { fg = "#FFFFFF" }
 "markup.quote" = { fg = "#8b8b8b" }
 "markup.raw" = { fg = "#99FFE4" }
